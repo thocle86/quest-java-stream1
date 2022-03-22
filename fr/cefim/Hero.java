@@ -1,3 +1,5 @@
+package fr.cefim;
+
 public class Hero {
 
     // attributs
